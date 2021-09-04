@@ -33,10 +33,6 @@ img{
     padding: 10px;
 }
 
-.logo{
-    max-width: 100px;
-}
-
 .menu{
     display: flex;
 }
@@ -84,4 +80,8 @@ img{
         grid-column: auto;
         grid-row: auto;
     }
+}
+
+.logo{
+    max-width: 20%;
 }
