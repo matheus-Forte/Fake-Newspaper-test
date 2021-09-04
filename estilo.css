@@ -30,7 +30,11 @@ img{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
+}
+
+.logo{
+    max-width: 100px;
 }
 
 .menu{
