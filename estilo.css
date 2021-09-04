@@ -55,6 +55,10 @@ img{
     grid-gap: 20px;
 }
 
+.logo{
+    width: 20%;
+}
+
 .grid1 > div:nth-child(n + 4 ) {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -80,8 +84,4 @@ img{
         grid-column: auto;
         grid-row: auto;
     }
-}
-
-.logo{
-    width: 20%;
 }
